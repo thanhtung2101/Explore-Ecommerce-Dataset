@@ -40,6 +40,8 @@ GROUP BY
     month
 ORDER BY 
     month;
+```
 * **Kết quả truy vấn:**
-<img width="761" height="128" alt="image" src="https://github.com/user-attachments/assets/c3cfca19-95f9-4699-83fb-ae25a37560f0" />
+<img width="759" height="127" alt="image" src="https://github.com/user-attachments/assets/0903d060-8d2c-4ffd-b93e-27266d31d232" />
+
 
