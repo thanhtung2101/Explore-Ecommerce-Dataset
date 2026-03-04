@@ -197,7 +197,8 @@ GROUP BY other_purchased_products
 ORDER BY quantity DESC;
 ```
 * **Kết quả truy vấn:**
-<img width="471" height="369" alt="image" src="https://github.com/user-attachments/assets/c141580c-53db-4384-ac0d-840786e8cbbf" />
+<img width="473" height="366" alt="image" src="https://github.com/user-attachments/assets/a36b6a38-8e87-4365-86b5-17718e9877aa" />
+
 
 ### Query 09: Xây dựng Phễu chuyển đổi (Conversion Funnel): Xem SP -> Thêm vào giỏ -> Mua hàng (Q1/2017)
 * **Câu lệnh SQL:**
