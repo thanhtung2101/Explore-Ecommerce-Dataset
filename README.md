@@ -4,7 +4,7 @@
 ## I. Giới thiệu dự án 
 Dự án này tập trung vào việc khai thác và phân tích tập dữ liệu Thương mại điện tử (eCommerce dataset) sử dụng ngôn ngữ truy vấn **SQL** trên nền tảng **[Google BigQuery](https://cloud.google.com/bigquery)**. 
 
-Tập dữ liệu được trích xuất từ Google Analytics (public dataset), bao gồm các thông tin chi tiết về các phiên truy cập trang web (web sessions), hành vi người dùng, nguồn lưu lượng (traffic sources) và các giao dịch mua hàng trực tuyến thực tế. Mục tiêu của dự án là tìm ra các "insights" (sự thật ngầm hiểu) có giá trị kinh doanh, giúp tối ưu hóa tỷ lệ chuyển đổi và tăng trưởng doanh thu.
+Tập dữ liệu được trích xuất từ Google Analytics (public dataset), bao gồm các thông tin chi tiết về các phiên truy cập trang web (web sessions), hành vi người dùng, nguồn lưu lượng (traffic sources) và các giao dịch mua hàng trực tuyến thực tế. Mục tiêu của dự án là tìm ra các "insights" có giá trị kinh doanh, giúp tối ưu hóa tỷ lệ chuyển đổi và tăng trưởng doanh thu.
 
 ## II. Yêu cầu hệ thống 
 Để thực thi và tái tạo lại các phân tích trong dự án này, bạn cần chuẩn bị:
